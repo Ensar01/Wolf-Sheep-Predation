@@ -10,3 +10,8 @@ To start, click the setup button to initialize the model, which will generate a 
 Click go to run the simulation. Sheep move around and eat grass to gain energy, while wolves hunt sheep to survive. The energy levels and ages of the agents change dynamically over time. You can enable options to display energy and age values above the agents. The terrain colors indicate the presence and growth stages of grass.
 
 Before running the simulation, you can adjust parameters such as the initial number of sheep and wolves, the energy gained from food and prey, and the grass regrowth rate. Experimenting with different values will show how they affect the ecosystem’s balance.
+
+## Versions 
+
+[NetLogo version](https://github.com/Ensar01/Wolf-Sheep-Predation/tree/main/HTML%20version)
+[HTML version](https://github.com/Ensar01/Wolf-Sheep-Predation/tree/main/NetLogo%20version)
