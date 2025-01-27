@@ -16,4 +16,3 @@ Before running the simulation, you can adjust parameters such as the initial num
 [NetLogo version](https://github.com/Ensar01/Wolf-Sheep-Predation/tree/main/HTML%20version)
 
 
-[HTMLl version](https://github.com/Ensar01/Wolf-Sheep-Predation/tree/main/NetLogo%20version)
